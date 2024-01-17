@@ -27,7 +27,7 @@ yarn
 yarn dev
 ```
 
-## Backend
+## Frontend
 
 1 - Instale as dependencias e rode o projeto:
 
